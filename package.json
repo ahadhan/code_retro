@@ -12,7 +12,7 @@
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@gsap/react": "^2.1.2",
-    "@react-three/drei": "^10.0.0",
+    "@react-three/drei": "9.86.7",
     "@react-three/fiber": "^9.0.1",
     "@tailwindcss/vite": "^4.0.7",
     "clsx": "^2.1.1",
